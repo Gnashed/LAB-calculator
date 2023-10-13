@@ -16,6 +16,10 @@
     height: 80px;
 }
 
+.display-row p {
+    padding-right: 10px;
+}
+
 .row {
     display: flex;
     justify-content: flex-end;
